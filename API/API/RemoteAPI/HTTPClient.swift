@@ -1,0 +1,18 @@
+//
+//  HTTPClient.swift
+//  API
+//
+//  Created by Apple on 8/7/22.
+//
+
+import Foundation
+
+//public enum HTTPClientResult {
+//    case success(Data, HTTPURLResponse)
+//    case failure(Error)
+//}
+//
+//public protocol HTTPClient {
+//    func get(from url: URL, completion: @escaping (HTTPClientResult) -> Void)
+//}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
