@@ -11,7 +11,7 @@ iOS-Swift
 - URL
 
 #### (happy path):
-1. Execute "Load Image Feed" command with above data.
+1. Execute "Load Image Feed" command with below json data.
 2. System downloads data from the URL.
 3. System validates downloaded data.
 4. System creates image feed from valid data.
@@ -28,7 +28,7 @@ iOS-Swift
 ### Load Feed From Cache Use Case
 
 #### Primary Case:
-1. Execute "Load Image Feed" command with above data.
+1. Execute "Load Image Feed" command with below json data.
 2. System retrieves feed data from cache.
 3. System validates cache is less than seven days old.
 4. System creates image feed from cached data.
